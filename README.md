@@ -17,7 +17,7 @@ This project aims to replicate the front-end interface of Razorpay, focusing on 
 
 ## Demo
 
-Check out the live demo [here](razor-delta.vercel.app).
+Check out the live demo [here] https://razor-delta.vercel.app/
 
 ## Features
 
